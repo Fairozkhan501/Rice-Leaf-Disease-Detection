@@ -1,1 +1,2 @@
 # Rice-Leaf-Disease-Detection
+Rice leaf diseases, such as leaf blast, bacterial leaf blight, and brown spot, among others, pose a severe threat to rice cultivation. The manual detection and diagnosis of these diseases are time-consuming, often inaccurate, and highly dependent on the expertise of agricultural specialists. This leads to delayed responses in disease management and, consequently, reduced crop yields and economic losses for farmers.
